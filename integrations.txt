@@ -1,0 +1,6 @@
+Slappier (zapier clone)
+- Stripe
+- ClickUp
+- Trello
+- Discord
+- Google Sheets
